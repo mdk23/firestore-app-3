@@ -16,3 +16,6 @@ Some images of the application
 ### `Add Recipe`
 
 ![Imagem 3](https://user-images.githubusercontent.com/33373038/207546512-e784b084-b674-4cee-b93c-de9db9a1459b.png)
+
+
+## Made by 💻MDK
